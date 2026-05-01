@@ -17,14 +17,18 @@ tags:
 ---
 
 # A Seedling Essay - Luz Maria Houidobre
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+**Sarah Robertson** is a co-owner of **Loose Leaf Farm** with her husband, **Mark**, whose oral
+history is also included in this collection. Loose Leaf Farm is primarily a vegetable farm on
+the northern side of Albuquerque, NM. Sarah and Mark have been farming for ten years,
+and they currently cultivate a little less than an acre. They lease the property where they
+live and farm, but they expect the landowner to sell the property and end their lease next
+year. They have many geese, ducks, chickens, goats, pigs, and dogs that animate the farm.
+One particularly charismatic goose named Moo noisily greeted us when we arrived. From
+the road, the farm is almost completely hidden. Once we drove past the gate, we saw the
+farm tucked away behind the house with large murals painted, by a relative of the
+landowner, on the side of the many of the farm structures.
 
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
+## Getting the farm started
 {% include images/figure.html
 class="right"
 width="48%"
@@ -43,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
 
 
-## Section Headings Create Visual Breaks
+## Learning to farm & mentorship
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
 **Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
@@ -51,7 +55,7 @@ Each section heading (marked with `##` in Markdown) creates a clear visual break
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
 
-## Pull Quotes Add Emphasis
+## Typical day
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
 
 {% include typography/aside.html class="right" text="
@@ -62,7 +66,7 @@ The pull quote you just saw is created with a simple `include` command in Markdo
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
-### Subsection Headings (Optional)
+### A shock about farming
 If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
 
 **Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
