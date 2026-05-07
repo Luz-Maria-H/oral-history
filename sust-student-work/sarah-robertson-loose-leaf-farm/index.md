@@ -28,6 +28,12 @@ the road, the farm is almost completely hidden. Once we drove past the gate, we 
 farm tucked away behind the house with large murals painted, by a relative of the
 landowner, on the side of the many of the farm structures.
 
+
+{% include media/audio.html
+  src="audio/interview.mp3"
+%}
+
+
 ## Getting the farm started
 {% include images/figure.html
 class="right"
