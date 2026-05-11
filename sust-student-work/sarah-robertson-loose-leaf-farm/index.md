@@ -45,10 +45,6 @@ Farming is a process that starts with soil building and planting and doesn’t e
 
 [^2]:Holistic farming is a management philosophy that integrates the needs of interconnected living organisms that coexist to run the farm as a whole system.
 
-Learning what plants thrive in intense heat and need less water will be cost-effective to produce in the New Mexican environment and will work better with the land. Depending on location and access to water, flooding crop fields is a way to communally share water in New Mexico. However, “sharing the acequia with your neighbors and counting on the acequia having water in it is a huge challenge” says Sarah. She has implemented a drip system for her crops connected to a well which is a cost-effective way to manage her water usage.
-
-Sarah shared some of her failures and says “you always do have failures.” Researching helpful and holistic framing practices is useful to expand knowledge early on. Sarah and Mark have an extensive at-home library from collecting books over the years. Sarah also took advantage of free courses with Holistic Management International and they eventually offered her a job she is still passionate about. 
-
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
@@ -56,7 +52,13 @@ This is a pull quote—a design element that highlights important text or quotat
   src="audio/interview.mp3"
 %}
 
+Learning what plants thrive in intense heat and need less water will be cost-effective to produce in the New Mexican environment and will work better with the land. Depending on location and access to water, flooding crop fields is a way to communally share water in New Mexico. However, “sharing the acequia with your neighbors and counting on the acequia having water in it is a huge challenge” says Sarah. She has implemented a drip system for her crops connected to a well which is a cost-effective way to manage her water usage.
+
+Sarah shared some of her failures and says “you always do have failures.” Researching helpful and holistic framing practices is useful to expand knowledge early on. Sarah and Mark have an extensive at-home library from collecting books over the years. Sarah also took advantage of free courses with Holistic Management International and they eventually offered her a job she is still passionate about. 
+
 Sarah stresses the importance of learning from neighbors. Farming books and common farming practices are very area specific. Farms look and function differently depending on the climate in which they are located. Sarah advises to “have somebody that’s actually in your area” when seeking mentorship and guidance. This is a way to build a stronger community and can reduce unnecessary mistakes that lead to failures, Sarah says "we're in a good place now, but if we had just had someone to ask, we could be a lot further along.”
+
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/loose leaf farm.jpeg" %}
 
 Bugs and pests are a part of nature and therefore a part of farming that can not be avoided. To not disrupt the landscape and to protect her produce, herself, and her community from harmful pesticides, Sarah has implemented holistic methods of pest control. She keeps her chickens in close proximity, has a routine waterflow, and spends hours tending to the gardens. She has also learned through trial and error which plants attract the most bugs and how much time and effort she is willing to put in to ward them away. Sarah mentions that she no longer grows squash because of the amount of squash bugs the plants attract, “that's just a mental health decision for me because it's not really worth it.” Making decisions about how you spend your time is important.
 
