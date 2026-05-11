@@ -32,7 +32,7 @@ image-path="images/loose leaf pond.jpeg"
 
 Sarah and her husband Mark started their first small garden over 10 years ago. It was a “small patch of beets” in their back yard. Sarah mentions that at the time they were “both making good money and had decent careers.” The small garden brought them joy. When they noticed their priorities shifting to accommodate the needs of the garden they made the life changing decision to dedicate more of their time and resources to a small-scale farm. 
 
-They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not yet been built up so that first harvest did not yield much produce. They didn't live on the property that they are farming on today until 2021 and practiced commuter farming[^1] for over seven years. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else…so, we struggled,” Sarah explains.
+They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not yet been built up so that first harvest did not yield much produce. They didn't live on the property that they are farming on today until 2021 and practiced **commuter farming**[^1] for over seven years. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else…so, we struggled,” Sarah explains.
 
 [^1]: Commuter farming refers to a lifestyle and operational model where a farmer does not live on the land they cultivate, instead traveling from a separate residence (often in a city or suburb) to the farm to work.
 
@@ -62,28 +62,13 @@ Sarah stresses the importance of learning from neighbors. Farming books and comm
 
 Bugs and pests are a part of nature and therefore a part of farming that can not be avoided. To not disrupt the landscape and to protect her produce, herself, and her community from harmful pesticides, Sarah has implemented holistic methods of pest control. She keeps her chickens in close proximity, has a routine waterflow, and spends hours tending to the gardens. She has also learned through trial and error which plants attract the most bugs and how much time and effort she is willing to put in to ward them away. Sarah mentions that she no longer grows squash because of the amount of squash bugs the plants attract, “that's just a mental health decision for me because it's not really worth it.” Making decisions about how you spend your time is important.
 
-## A holistic approch to farming
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/loose leaf farm.jpeg" %}
+## A Shock About Farming – Women in Agriculture
+It is no secret that the agricultural field is largely male-dominated. According to the Food and Agricultural Organization, only 36 percent of the global agricultural labor force is composed of women. Despite representing a smaller portion of the agricultural field, women are very active and involved, their work often being crucial to the success of their respective farms. Much like her husband, Mark, Sarah spends most of her time out in the fields tending to their crops and various animals that live at Loose Leaf Farms. Outside of the physical labor associated with farming, she also handles much of their finances.
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+ Even so, Sarah is referred to or acknowledged as the farmer's wife instead of as the farmer. This shows a gender bias in the field of farming and misrepresents Sarah's efforts, achievements and title. Sarah Robertson briefly touches on this subject stating that:
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+> “I’m surprised that it’s so persistent that, as the female farmer in the relationship, I’m often invisible. Even at market from customers that have been buying from me for years. Even when Mark was at his job and I was the only farmer at that market. They will come up and be like, “Oh, this is Mark. He’s the farmer and this is his wife, Sarah.” Okay, well, I was busting my butt out in the field too. I do all the taxes for us. Farming is a lot more than just busting your butt in the field. I do a lot. I do everything he does. I’m not mad at it. But it does shock me that it’s still such a big deal.”
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
-
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
-
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
-
-
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
 
 {% include media/audio.html
   src="audio/interview.mp3"
