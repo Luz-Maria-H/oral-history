@@ -77,32 +77,12 @@ It is no secret that the agricultural field is largely male-dominated. According
 
 This is reflective of what often deters women from pursuing agriculture and highlights the further importance of her work in this field.
 
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
+## Credits
 
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
+**Narrated by:**  Sarah Robertson of Loose Leaf Farms
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
+**Interviewed by:** Jacqueline Kelley-Cogdell Fall 2025 GEOG-589 Qualitative Methods class
 
-
-## Ready to Create Your Own?
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
-
-**Already have a site based on a Xanthan template?** To make your own Seedling essay:
-
-1. **Duplicate this folder** (`scrollstories/seedling/`) and rename it for your topic
-2. **Replace the text** with your own content, keeping the same structure
-3. **Add your own images** to the `images/` folder
-4. **Update the header** at the top (title, author, date, etc.)
-5. **Preview and adjust** spacing, image sizes, and flow
-
-Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
+**Web Profile by:** Luz Maria Houidobre, Christina Gutierrez, and Shea Spring 2026 SUST-364 Local Food Systems Practicum class
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
