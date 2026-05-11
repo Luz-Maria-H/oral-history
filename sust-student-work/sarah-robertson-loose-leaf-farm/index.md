@@ -81,8 +81,8 @@ This is reflective of what often deters women from pursuing agriculture and high
 
 **Narrated by:**  Sarah Robertson of Loose Leaf Farms
 
-**Interviewed by:** Jacqueline Kelley-Cogdell Fall 2025 GEOG-589 Qualitative Methods class
+**Interviewed by:** Jacqueline Kelley-Cogdell - Fall 2025 GEOG-589 Qualitative Methods class
 
-**Web Profile by:** Luz Maria Houidobre, Christina Gutierrez, and Shea Spring 2026 SUST-364 Local Food Systems Practicum class
+**Web Profile by:** Luz Maria Houidobre, Christina Gutierrez, and Shea Dolan - Spring 2026 SUST-364 Local Food Systems Practicum class
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
