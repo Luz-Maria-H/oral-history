@@ -19,7 +19,7 @@ tags:
 # Sarah Robertson and Loose Leaf Farm - An Oral History
 
 {% include media/audio.html
-  src="audio/interview.mp3"
+  src="audio/our-thoughts.mp3"
 %}
 
 ## Getting the farm started
@@ -50,7 +50,7 @@ It brings you joy. It brings your mental health to a place that's tolerable. And
 body is what we're supposed to do." %}
 
 {% include media/audio.html
-  src="audio/interview.mp3"
+  src="audio/it-brings-you-joy.mp3"
 %}
 
 Learning what plants thrive in intense heat and need less water will be cost-effective to produce in the New Mexican environment and will work better with the land. Depending on location and access to water, flooding crop fields is a way to communally share water in New Mexico. However, “sharing the acequia with your neighbors and counting on the acequia having water in it is a huge challenge” says Sarah. She has implemented a drip system for her crops connected to a well which is a cost-effective way to manage her water usage.
@@ -72,7 +72,7 @@ It is no secret that the agricultural field is largely male-dominated. According
 
 
 {% include media/audio.html
-  src="audio/interview.mp3"
+  src="audio/women-in-agriculture.mp3"
 %}
 
 This is reflective of what often deters women from pursuing agriculture and highlights the further importance of her work in this field.
