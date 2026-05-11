@@ -16,23 +16,11 @@ tags:
     - campus
 ---
 
-# Sarah Robertson and Loose Leaf Farm - an oral history
-**Sarah Robertson** is a co-owner of **Loose Leaf Farm** with her husband, **Mark**, whose oral
-history is also included in this collection. Loose Leaf Farm is primarily a vegetable farm on
-the northern side of Albuquerque, NM. Sarah and Mark have been farming for ten years,
-and they currently cultivate a little less than an acre. They lease the property where they
-live and farm, but they expect the landowner to sell the property and end their lease next
-year. They have many geese, ducks, chickens, goats, pigs, and dogs that animate the farm.
-One particularly charismatic goose named Moo noisily greeted us when we arrived. From
-the road, the farm is almost completely hidden. Once we drove past the gate, we saw the
-farm tucked away behind the house with large murals painted, by a relative of the
-landowner, on the side of the many of the farm structures.
-
+# Sarah Robertson and Loose Leaf Farm - An Oral History
 
 {% include media/audio.html
   src="audio/interview.mp3"
 %}
-
 
 ## Getting the farm started
 {% include images/figure.html
@@ -42,24 +30,24 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/loose leaf pond.jpeg"
 %}
 
-Sarah and her husband Mike started their first small garden over 10 years ago. It was a “small patch of beets” in their back yard. Sarah mentioned that at the time they were “both making good money and had decent careers.” The small garden brought them joy. When they noticed their priorities shifting to accommodate the needs of the garden they made the life changing decision to dedicate more their time and resources to a small scale farm.
+Sarah and her husband Mark started their first small garden over 10 years ago. It was a “small patch of beets” in their back yard. Sarah mentions that at the time they were “both making good money and had decent careers.” The small garden brought them joy. When they noticed their priorities shifting to accommodate the needs of the garden they made the life changing decision to dedicate more of their time and resources to a small-scale farm. 
 
-They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not been built up yet so that harvest did not yield much produce.They didn't live on the property that they were farming on until 2021 and practiced commuter farming. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else. Not to mention if you have to go to the bathroom during your workday, god forbid, so, we struggled” says Sarah.[^1]
+They found a quarter acre of land and started growing radishes, lettuce, beets, and carrots but all in small quantities. The soil had not yet been built up so that first harvest did not yield much produce. They didn't live on the property that they are farming on today until 2021 and practiced commuter farming[^1] for over seven years. “I don't recommend commuter farming. It's very hard, and you almost always forget a tool somewhere else…so, we struggled,” Sarah explains.
 
 [^1]: Commuter farming refers to a lifestyle and operational model where a farmer does not live on the land they cultivate, instead traveling from a separate residence (often in a city or suburb) to the farm to work.
 
-Sarah and Mark became involved as vendors at local farmers markets as soon as they could. Becoming established on a farm is just as important as becoming an established community member for farmers who want to make a profit. It takes time to build up your soil to ensure that it has the proper amount of nutrients to successfully grow high quality and bountiful produce, sometimes even years. It takes about the same amount of time to earn the trust of community members shopping at the local food markets in order to make decent sales. 
+Sarah and Mark became involved as vendors at local farmers markets as soon as they could. Becoming established on a farm is just as important as becoming an established community member for farmers who want to make a profit. It takes time to build up your soil to ensure that it has the proper amount of nutrients to successfully grow high quality and bountiful produce, sometimes even years. It takes about the same amount of time to earn the trust of community members shopping at the local food markets in order to make decent sales.
 
 
+## Running a Farm as a Business - A Holistic Approach
 
-## Farming as a business
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+Farming is a process that starts with soil building and planting and doesn’t end until the produce is sold, everything in between costs money. Sarah emphasizes the importance of making intentional cost-efficient decisions on what to plant, how much of it to plant, how it will be harvested then packaged, and to always be water-wise in order to succeed. Sarah and Mark have decided to implement **holistic farming practices**[^2] as a way to practice regenerative agriculture, make their farm more sustainable, and to connect to the land.
 
-**Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+[^2]:Holistic farming is a management philosophy that integrates the needs of interconnected living organisms that coexist to run the farm as a whole system.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Learning what plants thrive in intense heat and need less water will be cost-effective to produce in the New Mexican environment and will work better with the land. Depending on location and access to water, flooding crop fields is a way to communally share water in New Mexico. However, “sharing the acequia with your neighbors and counting on the acequia having water in it is a huge challenge” says Sarah. She has implemented a drip system for her crops connected to a well which is a cost-effective way to manage her water usage.
 
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+Sarah shared some of her failures and says “you always do have failures.” Researching helpful and holistic framing practices is useful to expand knowledge early on. Sarah and Mark have an extensive at-home library from collecting books over the years. Sarah also took advantage of free courses with Holistic Management International and they eventually offered her a job she is still passionate about. 
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
@@ -68,18 +56,9 @@ This is a pull quote—a design element that highlights important text or quotat
   src="audio/interview.mp3"
 %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+Sarah stresses the importance of learning from neighbors. Farming books and common farming practices are very area specific. Farms look and function differently depending on the climate in which they are located. Sarah advises to “have somebody that’s actually in your area” when seeking mentorship and guidance. This is a way to build a stronger community and can reduce unnecessary mistakes that lead to failures, Sarah says "we're in a good place now, but if we had just had someone to ask, we could be a lot further along.”
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-
-### A shock about farming
-If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
-
-**Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
-
+Bugs and pests are a part of nature and therefore a part of farming that can not be avoided. To not disrupt the landscape and to protect her produce, herself, and her community from harmful pesticides, Sarah has implemented holistic methods of pest control. She keeps her chickens in close proximity, has a routine waterflow, and spends hours tending to the gardens. She has also learned through trial and error which plants attract the most bugs and how much time and effort she is willing to put in to ward them away. Sarah mentions that she no longer grows squash because of the amount of squash bugs the plants attract, “that's just a mental health decision for me because it's not really worth it.” Making decisions about how you spend your time is important.
 
 ## A holistic approch to farming
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/loose leaf farm.jpeg" %}
