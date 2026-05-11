@@ -45,7 +45,7 @@ Farming is a process that starts with soil building and planting and doesn’t e
 
 [^2]:Holistic farming is a management philosophy that integrates the needs of interconnected living organisms that coexist to run the farm as a whole system.
 
-{% include typography/aside.html class="left" text="
+{% include typography/aside.html class="figure" text="
 It brings you joy. It brings your mental health to a place that's tolerable. And it keeps you physically strong. Working physically with your
 body is what we're supposed to do." %}
 
