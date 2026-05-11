@@ -47,12 +47,12 @@ Farming is a process that starts with soil building and planting and doesn’t e
 
 {% include typography/aside.html class="right" text="
 It brings you joy. It brings your mental health to a place that's tolerable. And it keeps you physically strong. Working physically with your
-body is what we're supposed to do." 
+body is what we're supposed to do. 
 
 {% include media/audio.html
   src="audio/interview.mp3"
 %}
-
+ "
 %}
 
 Learning what plants thrive in intense heat and need less water will be cost-effective to produce in the New Mexican environment and will work better with the land. Depending on location and access to water, flooding crop fields is a way to communally share water in New Mexico. However, “sharing the acequia with your neighbors and counting on the acequia having water in it is a huge challenge” says Sarah. She has implemented a drip system for her crops connected to a well which is a cost-effective way to manage her water usage.
