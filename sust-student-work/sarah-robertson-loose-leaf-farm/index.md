@@ -50,6 +50,7 @@ It brings you joy. It brings your mental health to a place that's tolerable. And
 body is what we're supposed to do." %}
 
 {% include media/audio.html
+  class="right"
   src="audio/interview.mp3"
 %}
 
