@@ -46,7 +46,8 @@ Farming is a process that starts with soil building and planting and doesn’t e
 [^2]:Holistic farming is a management philosophy that integrates the needs of interconnected living organisms that coexist to run the farm as a whole system.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+It brings you joy. It brings your mental health to a place that's tolerable. And it keeps you physically strong. Working physically with your
+body is what we're supposed to do." %}
 
 {% include media/audio.html
   src="audio/interview.mp3"
@@ -67,15 +68,14 @@ It is no secret that the agricultural field is largely male-dominated. According
 
  Even so, Sarah is referred to or acknowledged as the farmer's wife instead of as the farmer. This shows a gender bias in the field of farming and misrepresents Sarah's efforts, achievements and title. Sarah Robertson briefly touches on this subject stating that:
 
-> “I’m surprised that it’s so persistent that, as the female farmer in the relationship, I’m often invisible. Even at market from customers that have been buying from me for years. Even when Mark was at his job and I was the only farmer at that market. They will come up and be like, “Oh, this is Mark. He’s the farmer and this is his wife, Sarah.” Okay, well, I was busting my butt out in the field too. I do all the taxes for us. Farming is a lot more than just busting your butt in the field. I do a lot. I do everything he does. I’m not mad at it. But it does shock me that it’s still such a big deal.”
+> “I’m surprised that it’s so persistent that, as the female farmer in the relationship, I’m often invisible...I was busting my butt out in the field too. I do all the taxes for us. Farming is a lot more than just busting your butt in the field. I do a lot. I do everything he does. I’m not mad at it. But it does shock me that it’s still such a big deal.”
 
 
 {% include media/audio.html
   src="audio/interview.mp3"
 %}
 
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
+This is reflective of what often deters women from pursuing agriculture and highlights the further importance of her work in this field.
 
 ## What You've Learned So Far
 If you can create this Seedling essay, you can:
