@@ -26,7 +26,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Paige Usherwood. Loose Leaf Farm Pond. Google Reviews, 2024, [Source] (https://www.google.com/maps/contrib/109265331023826922062)"
+caption="Paige Usherwood. Loose Leaf Farm Pond. Google Reviews, 2024, [Source](https://www.google.com/maps/contrib/109265331023826922062)"
 image-path="images/loose leaf pond.jpeg"
 %}
 
